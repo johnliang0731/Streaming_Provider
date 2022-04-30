@@ -4,6 +4,8 @@ This is a software design course project from the course of CS6310 - Software Ar
 
 This is a single-user **Streaming Provider Project** system with the purpose of simulating the interactions among various demographic groups, streaming services and studios.
 
+This project is developed in Java, the graphic interface was designed and developed in Swing.
+
 **Author**:
 
 - Renyu Zhang
